@@ -6,9 +6,7 @@ This repository contains the Slidev presentation for **Gacha-Sol**, a decentrali
 
 - **Live Slides**: [https://pupplecat.github.io/gacha-sol-talk/](https://pupplecat.github.io/gacha-sol-talk/)
 - **Gacha-Sol App**: [https://gacha-sol-app.vercel.app/](https://gacha-sol-app.vercel.app/)
-- **Contract Address**: `GaChaWso1g5y2Rby6pwLSRxezyoxtbaMDyb5sqwYvNGq`
-- **Presenter**: pupplecat
-- **Date**: May 16, 2025
+- **Contract Address**: `GaChaWso1g5y2Rby6pwLSRxezyoxtbaMDyb5sqwYvNGq` ([devnet](https://explorer.solana.com/address/GaChaWso1g5y2Rby6pwLSRxezyoxtbaMDyb5sqwYvNGq?cluster=devnet))
 
 ## Slide Highlights
 
