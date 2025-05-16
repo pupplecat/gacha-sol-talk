@@ -8,6 +8,7 @@ This repository contains the Slidev presentation for **Gacha-Sol**, a decentrali
 - **Gacha-Sol App**: [https://gacha-sol-app.vercel.app/](https://gacha-sol-app.vercel.app/)
 - **Contract Address**: `GaChaWso1g5y2Rby6pwLSRxezyoxtbaMDyb5sqwYvNGq` ([devnet](https://explorer.solana.com/address/GaChaWso1g5y2Rby6pwLSRxezyoxtbaMDyb5sqwYvNGq?cluster=devnet))
 
+
 ## Slide Highlights
 
 - **Motivation**: Addressing privacy challenges in gacha games using Solana’s confidential transfers.
@@ -45,6 +46,10 @@ To view or modify the slides locally, follow these steps:
    ```bash
    npm run export
    ```
+
+## Related Projects
+
+- [Gacha-Sol Main Repository](https://github.com/pupplecat/gacha-sol): Source code for the smart contract and app.
 
 ## Contributing
 
