@@ -92,8 +92,7 @@ pub fn buy_pull(ctx: Context<BuyPull>, params: BuyPullParams)
 
 ---
 layout: image-right
-title: "Live Demo: Spin the Capsule!"
-image: /assets/ui-screenshot.png
+image: ./assets/ui-screenshot.png
 transition: slide-up
 ---
 
