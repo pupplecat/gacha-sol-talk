@@ -2,5 +2,16 @@
   "name": "gacha-sol-talk",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "slidev build",
+    "postbuild": "cp -r assets/ dist/assets/",
+    "dev": "slidev slides.md"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^51.6.0"
+  },
+  "dependencies": {
+    "@slidev/theme-seriph": "^0.25.0"
+  }
 }
