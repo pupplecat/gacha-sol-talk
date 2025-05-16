@@ -5,6 +5,6 @@
     },
     "slidev.include": [
         "**/slides.md",
-        "example.md"
+        "pitch.md"
     ],
 }
