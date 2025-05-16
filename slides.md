@@ -84,7 +84,7 @@ transition: slide-up
 pub fn buy_pull(ctx: Context<BuyPull>, params: BuyPullParams)
   -> Result<()> {
     let pull = &mut ctx.accounts.pull;
-    pull.buyer = *ctx.accounts.buyer.key;
+    pull.buyer = ctx.accounts.buyer.key();
     // ... (token transfer logic)
     Ok(())
 }
